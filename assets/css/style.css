@@ -1,0 +1,38 @@
+/* 
+////////////Preguntar por dimensionado de imagens
+.carousel-inner{
+  height: 100vh;
+}
+.img-carousel{
+  object-fit: contain;
+} */
+
+html{
+  scroll-behavior: smooth;
+}
+body{
+  background-color: #000;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+.navbar-inner{
+  margin: 0 10%;
+}
+.title-container{
+  text-transform: uppercase;
+  text-align: center;
+  width: 90%;
+  margin: 3rem auto;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid purple;
+}
+.quienes-somos-texto{
+  font-weight: 100;
+  font-size: 0.9rem;
+}
+.fas{
+  padding: 7px 0;
+}
+.quienes-somos-icon{
+  margin: 8px 0;
+}
